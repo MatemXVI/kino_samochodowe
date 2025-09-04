@@ -11,4 +11,5 @@ W pracy dyplomowej wykorzystałem głównie język PHP, ale też jest JavaScript
 
 <b>Projekt stworzony bez frameworków – ręczne zarządzanie sesjami, bazą danych i strukturą MVC. Pokazuje, że rozumiem fundamenty działania aplikacji webowej bez wykorzystywania frameworków</b>
 https://github.com/MatemXVI/kino_samochodowe/blob/main/Interfejs%20graficzny.docx - opis interfejsu graficznego
+
 Jest to moja pierwsza wersja systemu która była jednocześnie projektem dyplomowym. Obecnie zakończyłem pracę nad stworzeniem identycznego systemu we frameworku Laravel. Planuję również stworzenie go we frameworkach Django i Spring Boot.
