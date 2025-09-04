@@ -13,8 +13,8 @@ Funkcjonalności:
   - Bilety generowane są z kodem QR zawierającym dane identyfikacyjne użytkownika.
  
 Technologie:
-- Backend: PHP, JavaScript, jQuery
-- Frontend: HTML, CSS (prosty układ stron i przyciski)
+- Backend: PHP; JavaScript; jQuery
+- Frontend: HTML; CSS (prosty układ stron i przyciski)
 - Baza danych: MySQL
 - Inne: PHPQRCode
 
