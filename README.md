@@ -12,6 +12,7 @@ W pracy dyplomowej wykorzystałem głównie język PHP, ale też jest JavaScript
 <b>Projekt stworzony bez frameworków – ręczne zarządzanie sesjami, bazą danych i strukturą MVC. Pokazuje, że rozumiem fundamenty działania aplikacji webowej bez wykorzystywania frameworków</b>
 
 Jest to moja pierwsza wersja systemu która była jednocześnie projektem dyplomowym. Obecnie zakończyłem pracę nad stworzeniem identycznego systemu we frameworku Laravel. 
+
 Wersja 2.0 - https://github.com/MatemXVI/kino-samochodowe-laravel
 
 Opis interfejsu graficznego: https://github.com/MatemXVI/kino_samochodowe/blob/main/Interfejs%20graficzny.docx
