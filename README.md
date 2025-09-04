@@ -10,8 +10,9 @@ Bilety posiadają kod QR, przechowujący informacje identyfikujące użytkownika
 W pracy dyplomowej wykorzystałem głównie język PHP, ale też jest JavaScript i jQuery. Do wyglądu stron wykorzystano język znaczników HTML i CSS, głównie frontend ma na celu pokazanie układów strony i przycisków. Baza danych jest oparta na MySQL, a sam system działał na serwerze Apache. 
 
 <b>Projekt stworzony bez frameworków – ręczne zarządzanie sesjami, bazą danych i strukturą MVC. Pokazuje, że rozumiem fundamenty działania aplikacji webowej bez wykorzystywania frameworków</b>
-https://github.com/MatemXVI/kino_samochodowe/blob/main/Interfejs%20graficzny.docx - opis interfejsu graficznego
 
 Jest to moja pierwsza wersja systemu która była jednocześnie projektem dyplomowym. Obecnie zakończyłem pracę nad stworzeniem identycznego systemu we frameworku Laravel. Wersja 2.0 - https://github.com/MatemXVI/kino-samochodowe-laravel
 
-Planuję również przerobienie pracy do frameworków Spring Boot i Django
+Opis interfejsu graficznego: https://github.com/MatemXVI/kino_samochodowe/blob/main/Interfejs%20graficzny.docx
+
+Planuję również przerobienie pracy do frameworków Spring Boot i Django.
