@@ -23,5 +23,6 @@ Technologie:
 Obecnie zakończyłem pracę nad wersji 2.0 aplikacji stworzonej we frameworku Laravel. Wersja 2.0 - https://github.com/MatemXVI/kino-samochodowe-laravel
 
 Opis interfejsu graficznego: https://github.com/MatemXVI/kino_samochodowe/blob/main/Interfejs%20graficzny.pdf
+W projekcie skupiałem się głównie na backendzie, frontend jest głównie w celu pokazania układu pól, przycisków, zdjęć itp.
 
 Planuję również przerobienie pracy do frameworków Spring Boot i Django.
